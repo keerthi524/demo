@@ -1,0 +1,17 @@
+rails new HBO -d mysql
+
+rails g model zee5 name: friendsseason timing: 6pm
+
+zee5.rb
+
+class zee5 < ActiveRecord :: base
+  
+
+end
+
+zee5.html.erb
+
+
+
+
+
